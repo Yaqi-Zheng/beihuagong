@@ -1,9 +1,15 @@
 # beihuagong
 ## Source
 [baseline code](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.23888204.J_5507335000.2.4adf3920ebg6LA&postId=254984)
+
 [introduction](https://cn.aliyun.com/page-source/tianchi/promotion/handsonailab_buct?from_alibabacloud=)
 
 ## Additional Requirements
+* [xlrd](https://www.geeksforgeeks.org/how-to-install-xlrd-in-python-in-windows/)
+
+* [seaborn](https://seaborn.pydata.org/installing.html)
+
+* [jieba](https://anaconda.org/conda-forge/jieba)
 
 ## Notice
 ### Committing your work
