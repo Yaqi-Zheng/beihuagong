@@ -20,6 +20,8 @@ Incremental changes mean that each commit should focus on a single issue, featur
 Commit messages should consist of a brief one-line summary and an optional, more detailed explanation separated by an empty line. For example, one commit message might be:
 
 >Added CSS for rounded corners on the buttons.
+>
+>
 >TA’s suggestion. TA is HCI major. :-)
 
 The first line of the commit message is similar to an email subject, and the optional explanation is like the body of an email message.
